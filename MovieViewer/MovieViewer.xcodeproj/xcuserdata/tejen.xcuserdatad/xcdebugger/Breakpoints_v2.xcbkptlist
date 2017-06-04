@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieViewer/ViewController.swift"
+            timestampString = "518267734.180989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer.ViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "MovieViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejen/codepath/workshop/ios-workshop/MovieViewer/MovieViewer/ViewController.swift"
+                  timestampString = "518267734.186207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieViewer.ViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "MovieViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tejen/codepath/workshop/ios-workshop/MovieViewer/MovieViewer/ViewController.swift"
+                  timestampString = "518267734.188615"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1743">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
